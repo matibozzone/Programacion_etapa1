@@ -2,3 +2,7 @@ avena
 manteca de mani
 banana
 huevo
+
+crema
+manteca
+cebolla
